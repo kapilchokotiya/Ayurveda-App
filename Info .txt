@@ -1,0 +1,25 @@
+Hitendra Gurjar: 
+
+✅ User Registration & Profile
+✅ AI-based Symptom Checker
+✅ Video Consultation with Ayurveda Doctors
+✅ Herbal Remedies & Lifestyle Tips
+✅ E-commerce for Ayurvedic Products
+
+//
+
+Core Features
+✅ User Registration & Profile Management – Users can create accounts, set health goals, and track progress.
+✅ AI-based Symptom Checker – Users can enter symptoms to get Ayurveda-based health recommendations.
+✅ Live Video Consultation – Secure video calls with certified Ayurveda practitioners.
+✅ Dosha Analysis Test – Users answer questions to determine their body constitution (Vata, Pitta, Kapha).
+✅ Daily Health Tips – Personalized Ayurvedic wellness suggestions based on user health profile.
+✅ E-commerce Integration – Buy Ayurvedic medicines, herbs, and wellness products.
+
+🧘‍♂️ Advanced Features
+✅ Diet & Lifestyle Recommendations – Personalized meal plans and yoga exercises based on Dosha type.
+✅ Ayurvedic Remedy Library – Home remedies for common ailments using natural ingredients.
+✅ Appointment Scheduling – Book and manage consultations with Ayurvedic doctors.
+✅ Health Progress Tracker – Track symptoms, diet, and lifestyle changes over time.
+✅ Community Forum – Engage with other Ayurveda enthusiasts, share experiences, and ask questions.
+✅ Multilingual Support – Offer app content in multiple languages for better accessibility.
