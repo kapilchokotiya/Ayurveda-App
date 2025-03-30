@@ -23,3 +23,35 @@ Core Features
 ✅ Health Progress Tracker – Track symptoms, diet, and lifestyle changes over time.
 ✅ Community Forum – Engage with other Ayurveda enthusiasts, share experiences, and ask questions.
 ✅ Multilingual Support – Offer app content in multiple languages for better accessibility.
+
+
+
+// Folder Structure
+
+ayurveda-app/
+│── backend/                     # Backend services (API, Database, Authentication)
+│   │── src/                     # Main backend source code
+│   │   │── controllers/          # API request handlers
+│   │   │── models/               # Database models
+│   │   │── routes/               # API routes
+│   │   │── services/             # Business logic & integrations
+│   │   │── middleware/           # Authentication, logging, validation
+│   │   └── utils/                # Helper functions
+│   │── tests/                    # Backend test cases
+│   │── config/                   # Environment variables, secrets
+│   └── package.json              # Backend dependencies
+
+│── frontend/                     # Frontend (Mobile & Web)
+│   │── src/                      # Frontend source code
+│   │   │── components/           # Reusable UI components
+│   │   │── screens/              # Pages/screens for app
+│   │   │── services/             # API calls & state management
+│   │   │── assets/               # Images, icons, fonts
+│   │   └── styles/               # CSS/SCSS or Tailwind styles
+│   │── public/                   # Static files
+│   └── package.json              # Frontend dependencies
+
+│── mobile/                       # Mobile app (React Native/Flutter)
+│   │── android/                  # Android-specific code
+│   │── ios
+
