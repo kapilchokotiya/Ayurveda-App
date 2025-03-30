@@ -6,7 +6,7 @@ Hitendra Gurjar:
 ✅ Herbal Remedies & Lifestyle Tips
 ✅ E-commerce for Ayurvedic Products
 
-//
+// Ayurwell
 
 Core Features
 ✅ User Registration & Profile Management – Users can create accounts, set health goals, and track progress.
